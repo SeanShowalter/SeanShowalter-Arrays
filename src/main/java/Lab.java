@@ -1,5 +1,5 @@
 
-/**
+/***
  * An array is a group of some predefined number of elements.
  * For instance, we could have an array of 10 ints or 10 Strings.
  *
