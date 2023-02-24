@@ -47,7 +47,6 @@ public class Lab {
      * @return a new int array that can contain n elements.
      */
     public int[] returnNewArraySizeN(int n){
-        int[] myArray = new int[n];
-        return myArray;
+        return new int[n];
     }
 }
